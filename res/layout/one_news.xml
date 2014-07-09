@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/border2"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/news"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="3dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="7dp"
+        android:textColor="@android:color/black"
+        android:textSize="22sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/dateandtime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:paddingBottom="7dp"
+        android:paddingTop="3dp"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="16sp" >
+    </TextView>
+
+</LinearLayout>

@@ -1,0 +1,146 @@
+<html>
+<h3><font color="blue">INTRODUCTION</font></h3>
+From paying bills to downloading music, Android App is the new Tech Mantra. For those with a flair for robotics, &quot;Androidbotics&quot;  invites you to explore the world of android programming with your bot as an accomplice.
+                                             Controlling your drone is now just a smart touch away!
+
+
+<h3><font color="blue">Course content</font></h3>
+<b>Session 1: (6hrs)</b>
+<bFrom paying bills to downloading music, Android App is the new Tech Mantra. For those with a flair for robotics, “Androidbotics”  invites you to explore the world of android programming with your bot as an accomplice.
+                                             Controlling your drone is now just a smart touch away!
+r>
+Introduction to Android:
+<ul>
+<li>What is Android?</li>
+<li>History of Android</li>
+<li>Setting up Development environment</li>
+<li>Creating AVD</li></ul>
+Android:<ul><li>Stack</li>
+<li>Applications</li>
+<li>Application Framework</li>
+<li>Libraries</li>
+<li>Android Runtime</li>
+<li>Linux Kernel</li>
+</ul>
+Main building blocks Android:
+<ul>
+<li>Activity and its life cycle</li>
+<li>Intents</li>
+<li>Broadcast receiver</li>
+<li>Services</li>
+</ul>
+Introduction to DVM
+<br>What is .apk file?
+<br>Creating your first Android &quot;Hello World!!!&quot;Application
+<br>Developing your own Android Bluetooth App for controlling Robot:
+<ul>
+<li>Setting Up Bluetooth</li>
+<li>Searching Bluetooth Device</li>
+<li>Pairing with Bluetooth Device</li>
+<li>Establishing connection as a server</li>
+<li>Connecting as a client</li>
+<li>Creating RFCOMM Communication</li>
+</ul>
+Configuring Android device with Eclipse IDE:
+<ul>
+<li>Downloading and installing Android device specific USB driver</li>
+<li>Enabling USB debugging mode of your Android device</li>
+<li>Connecting your Android device with Eclipse IDE</li>
+</ul>
+Debugging/Installing the Robot control application on your Android device
+<b>Session 2: (4hrs)
+</b>Introduction to Robotics:
+<ul>
+<li>What is Robot and Robotics?</li>
+<li>Major application areas</li>
+<li>Type of Robots</li>
+<li>Basic parts of a Robot</li>
+</ul>
+Details of Microcontroller and Embedded C Programming:
+<ul>
+<li>What are &mu;P & &mu;Cs, block diagram and difference between them?</li>
+<li>Why to use AVR series microcontrollers & circuit diagram for building your basic AVR board for projects?</li>
+<li>Familiarization & part identification of your AVR development board</li>
+<li>Structure of an Embedded C program</li>
+<li>Use of the Win AVR Cross Compiler</li>
+<li>Configuring DDR, PORT & PIN register</li>
+<li>Writing a basic program to blink LEDs</li>
+<li>Use of flash tools, transferring the .hex file into the microcontroller & running the code</li>
+<li>Simple Programming practices on basic IO devices</li>
+<b></ul>Session 3: (3hrs)
+</b>Mechanical System of the Robot and Basic Robotic Kit Assembling:
+<ul>
+<li>Motors used in Robotics</li>
+<li>Understanding the control mechanism of different motors</li>
+<li>Learning about motor driver circuits</li>
+<li>Assembling the Robotic kit to make ready the basic robotic vehicle</li>
+<li>Programming the DC motors and running the robot in different direction</li>
+<li>Writing program for making manual control or switch controlled robot</li>
+</ul>Implementation of UART Communication Protocol & making PC Controlled Robot:<ul></li>
+<li>Basics of UART Communication Protocol</li>
+<li>Frame Format, meaning of 8N1 etc</li>
+<li>Hardware & software used (COM Port, USB to Serial Converter/BAFO, HyperTerminal )</li>
+<li>Understanding the different parameters of UART e.g. baud rate, parity etc</li>
+<li>Making PC controlled robot</li>
+</ul>
+<b>Session 4: (3hrs)</b>
+Study about different Communication Technologies and modules used in Robotics:
+<ul>
+<li>Bluetooth</li>
+<li>WiFi</li>
+<li>Infrared</li>
+<li>RF</li>
+<li>Selecting the best way for communication between phone and Robot</li></ul>
+Understanding the Bluetooth technology, interfacing, configuring using AT command & controlling Robot:<ul>
+<li>Wireless communication using Bluetooth</li>
+<li>Details of Bluetooth Technology & its network</li>
+<li>bluetooth Characteristics</li>
+<li>Understanding the role of voltage level converter used in the Bluetooth module</li>
+<li>Bluetooth Module Interfacing with PC and microcontroller</li>
+<li>Understanding pairing mode, AT mode and switching between them</li>
+<li>Configuring the Bluetooth module through AT commands e.g. changing the name, pin code, baud rate etc</li>
+<li>Making Bluetooth controlled robot using Bluetooth Module & Mobile Phone, Tablet/Laptop</li>
+</ul>
+
+
+<h3><font color="blue">Kit contents</font></h3>
+1. Microcontroller development board with the following features:
+<ul>
+<li>Built with popular Atmel&apos;s AVR Microcontroller</li>
+<li>On-board LCD interface option (it can also be used for any other general purpose application)</li>
+<li>On-board Motor Driver for connecting 2 DC motors / 1 Stepper motor</li>
+<li>Onboard voltage level converter IC MAX232 for PC interface through UART</li>
+<li>On-board 5v regulated power supply</li>
+<li>Onboard 12MHz external crystal connection</li>
+<li>Onboard 2-tact switches for external input and reset</li>
+<li>Onboard 4 test surface mounted LEDs for status and debugging purpose</li>
+<li>Onboard 2 supply indicator LEDs</li>
+<li>Onboard dual power supply option through DC source (6V to 16V) or USB power</li>
+<li>On board USB programmer</li>
+<li>Onboard exposed ISP pins for programming</li>
+<li>Onboard exposed I/O pins</li>
+<li>Onboard exposed I/O pins for ADC and sensors with 5V/1A power supply</li>
+<li>Provision for connecting/interfacing Servo motors</li>
+<li>Provision for connecting Buzzer</li>
+<li>Provision of I/O pins for servo motors and sensors with dual power supply option</li>
+</ul>
+<br>2. Bluetooth Module (1)
+<br>3. Serial cable (1)
+<br>4. USB cable (1)
+<br>5. A set of robotic chassis (1)
+<br>6. Geared DC motor (2)
+<br>7. Molded plastic Wheels with rubber grip (2)
+<br>8. Ball caster with 360 degree freedom (2)
+<br>9. Batteries for power supply (2)
+<br>10. Sensor connectors and much more…
+
+<h3><font color="blue">Fee</font></h3>
+<br>Fee :R.1575/-per person.
+<br>Kits will be provided per team.
+
+
+<h3><font color="blue">No of participants</font></h3>
+min : 4 <br>
+max : 4 
+</html>
+

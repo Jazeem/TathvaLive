@@ -1,0 +1,128 @@
+<html>
+<h3><font color="blue">INTRODUCTION</font></h3>
+<br>Here is your chance to feel the passion and live the dream. Defy the traps, time your gaps, plunge through impediments and speed through the tunnels. Feel the adrenaline pump though your veins, as <i><b>Tathva'13</b></i> presents before you <i><b>Dirt Race</b></i>. <br/>
+<br>
+Get ready to conquer the racing arena, see if the robot of your creation has what it takes to withstand this test of speed, skill and endurance. Stride past the other robots at top speed to emerge the champion of this race.<br/>
+<br>
+<img src="2013/images/events/dirt 3_resized(1)_resized.jpg" alt="dirt 3_resized(1).jpg"/>
+
+<h3><font color="blue">Problem Statement</font></h3>
+<br><i><b>Design and construct a wired or wireless bot which can race against others. The goal is to complete the given racetrack in minimum time.</b></i><br/>
+<br>
+<img src="2013/images/events/dirt6_resized.jpg" alt="dirt6.jpg"/>
+
+<h3><font color="blue">Arena</font></h3>
+<ul>
+<li>	The actual arena will be displayed only at the venue.</li>
+<li>	The bot may use any shortcut it finds in the racecourse, but it must complete all the obstacles.</li>
+<li>	Different terrains like concrete, sand, soil, gravel, glass, wood, etc. will be used in the track.</li>
+<li>	Two minutes preparatory time will be given to the teams before the start to study the arena and devise game-play strategies.</li>
+<li>	There may be bridges, inclined planes, wedges, death wells, rotating platforms, and many more surprise elements.</li>
+<li>	Final aim is to reach the finish line before the other bots.</li>
+<li>	The actual arena may or may not have all the above mentioned elements.</li>
+<li>	Apart from these, the arena may hold any other such contrivances which will be revealed only at the venue.</li>
+</ul><br/>
+
+<b><u><i>Elements</i></u></b><br/>
+<br/>
+
+<li>Bumper Rolls</li>
+<li>Sea-Saw Bridge</li>
+<li>Maze</li>
+<li>Slip Glass</li>
+<li>Harsh Rotor</li>
+<li>Water Splash</li>
+<center>
+<img src="2013/images/events/ramki1_resized.jpg" alt="ramki1.jpg"/><br/>
+<center>
+<img src="2013/images/events/ramki2_resized.jpg" alt="ramki2.jpg"/>
+
+
+<h3><font color="blue">Event Specifications</font></h3>
+ <br>
+<u><i><b>ROUND 1</b></i></u>
+<ul>
+<li>In the first round, two teams which will be selected arbitrarily who have to compete against each other in a single race.</li>
+<li>The 17 teams which clock the fastest times will make it to the next round irrespective of the individual race rankings, i.e., from a single race, both the bots can make it to the next round, or none of them.</li>
+<li>Apart from these 17 teams, 3 other teams will also join them in the SECOND round based on a wild card round. The judges have the discretion to decide which teams will compete for the wild card round irrespective of their race timings.</li>
+</ul>
+<u><i><b>WILD CARD ROUND</b></i></u>
+<ul>
+<li>Based on the performance, design and credibility, the judges will prepare a list of 6 teams which will compete against each other on the same track used for Round 1.</li>
+<li>The top 3 teams will then be allowed to enter round two, along with the already selected 17 teams.</li>
+<li>Selection of wild card bots is solely under the discretion of the event managers and expert committee
+<li>Wireless bots will be given a higher preference in the wild card round due to design. <br/>
+
+</ul>
+<u><i><b>ROUND 2</b></i></u>
+<ul>
+<li>In the second round, 2 teams race on the same track.</li>
+<li>The battling pairs will be selected by the officials.</li>
+<li>Top 10 teams which clock the fastest time advances into the next round</li>
+</ul>
+<u><i><b>ROUND 3</b></i></u>
+<ul>
+<li>	The round will be conducted on a new track.</li>
+<li>In the third round, 2 teams race on the new track </li>
+<li>The battling pairs will be selected by the officials.</li>
+<li>Top 5 teams which clock the fastest time advances into the next round.</li>
+</ul>
+<u><i><b>THE GRAND FINALE.</b></i></u>
+<ul>
+
+<li>In the fourth round, each team must compete the new track individually. </li>
+<li>The top 3 teams with the least times will be declared winners
+<br/>
+<br/>
+<q><i><b>CERTIFICATE OF EXCELLENCE WILL BE GIVEN TO THE PARTICIPANTS WITH THE BEST DESIGN.
+</b></i></q>
+<br/><q>Design judging criteria is under the discretion of event managers<q>
+
+
+<h3><font color="blue">Combat Policy</font></h3>
+<ul>
+<li>The bots can push or collide against each other amidst the race.</li>
+<li>No kind of weapons (guns, knives, projectiles, hammers, axes, etc.) should be used upon the opponents.</li>
+<li>All the bots are expected to have defensive structures as the competitors themselves are responsible for any damage caused to their respective bots due to harsh impact with the arena walls or any other bots.</li>
+<li>The participants may not touch the bots while it is on the race track. Only the official supervising the bot on the track may reset the bot at the last checkpoint. Any violation of this rule may lead to disqualification</li>
+
+<h3><font color="blue">Specification</font></h3>
+<ul>
+<li>A team may consist of a maximum of <b>4 </b>members.</li>
+<li>Cross-college teams are allowed.</li>
+<li>Teams may register online for the event.Spot registrations are also possible .</li>
+<li>Each team is allowed to have only one bot for both the rounds.</li>
+<li>The bot must fit into a cube of <b>25cm x</b> <b>25cm x 20cm</b>.</li>
+<li>No external power supply will be supplied at the venue. All teams should arrange for their own power.</li>
+<li>The maximum potential difference between any two points should not exceed <b>18 V</b>  for <b>wired</b> vehicles and <b>24 V</b> for <b>wireless </b>bots.</li>
+<li>No IC engines are allowed. The batteries can be placed on the bot or held in hand.</li>
+<li>In case of wired bots, the connecting wires from the bot to the remote control should be a minimum of 3 meters in length.</li>
+<li>Bots cannot be constructed using <b>ready-made</b> Lego kits or any other such mechanism. But ready-made gear assemblies and wheels can be used. Although the chassis has to be hand-made.</li>
+<li> The bot must be water and fire resistant</li>
+<li>Violating the clause will lead to immediate disqualification.</li>
+
+
+<h3><font color="blue">Rules</font></h3>
+<ol>
+<li>Only two players are allowed into the arena. One to control the bot and another to hold connecting wires.</li>
+<li>There will be checkpoints all along the track. If any kind of human intervention is required, then the bot has to start once again from the last checkpoint.<br>
+For example, if a bot falls from a cliff and is unable to get back on the track, then the Official will restart the bot immediately from the last checkpoint it had surpassed, while the other team continues to move ahead on its path without stopping.</li>
+<li>The above policy can be used only three times for a given checkpoint. If a team cannot reach the next checkpoint in spite of restarting from a previous checkpoint thrice, it will be disqualified.</li>
+<li>Also if a bot hasn't moved from its spot for more than 60 seconds, it will lead to disqualification.</li>
+
+<li>In case of any discrepancy, decision of the organizing panel will be considered absolute.</li>
+
+</ol>
+
+<h3><font color="blue">Powered By</font></h3>
+<center><img src="2013/images/events/sp robotic works wos_resized.png" alt="sp robotic works wos.png"/>
+
+<h3><font color="blue">Prizes</font></h3>
+First Prize : Rs.12000<br/>
+Second Prize : Rs.8000<br/>
+Third Prize : Rs.4000
+
+<h3><font color="blue">No of participants</font></h3>
+Min : 2 <br>
+Max : 4
+</html>

@@ -1,0 +1,50 @@
+<html>
+<h3><font color="blue">INTRODUCTION</font></h3>
+
+Linux kernel, the most successful open-source product, is made virtualization capable with a simple kernel module called Kernel-based Virtual Machine (KVM). KVM is perceived as a very promising hypervisor by users and vendors and hence going to be a very prominent candidate for virtualization and cloud in the near future. This contest is conducted by IBM to help participants improve their Linux and KVM skills.
+ <h3><font color="blue">TUTORIALS</font></h3>
+ 
+Participants are directed to get Fedora 17 to a VT-enabled x86 system and try out KVM. You can get the iso images for that from the following links: 
+<br><br>
+1.http://download.fedoraproject.org/pub/fedora/linux/releases/17/Live/i686/Fedora-17-i686-Live-Desktop.iso 
+<br><br>
+2.http://download.fedoraproject.org/pub/fedora/linux/releases/17/Fedora/i386/iso/Fedora-17-i386-DVD.iso 
+<br><br>
+Participants can try out following scenarios with Linux and KVM:
+<ul>
+<li>
+KVM setup
+</li>
+<li>
+Create Virtual Machines
+</li>
+<li>
+Start, shutdown, reboot VM's
+</li>
+<li>
+Configure networking between host and guest.
+</li>
+<li>
+Configure public bridge network
+</li>
+</ul>
+
+
+<h3><font color="blue">PHASE 1</font></h3>
+Phase one will be conducted from 10:00am on 20-October-2013 and it will be a 30mins object oriented test focusing on hands-on experience with Linux and KVM virtualization using Fedora 17. It is conducted mainly to evaluate the participants’ proficiency in Linux and Virtualization concepts.
+<br>
+<br>
+Maximum participants for this event are limited to 60 and if there is a higher participation demand for the event, students will be eliminated on a first come first serve basis. From this group, 10 students will be selected for Phase II.
+
+h3><font color="blue">PHASE 2</font></h3>
+Phase II will be conducted from 2:00pm on 20-October-2013 it mainly evaluates problem solving and programming skills in Linux and Virtualization area. Participants will be given programming questions related to KVM during this round. Participants can use python scripts to solve given problems.
+
+
+
+ 
+ 
+ <h3><font color="blue">No of Participants</font></h3>
+ Min: 1 <br>
+ Max: 1<br>
+ 
+ </html>

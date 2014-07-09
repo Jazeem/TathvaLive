@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" 
+    android:background="@android:color/black"
+    
+    
+    >
+    
+    
+<!--     <ImageView
+        android:id="@+id/locationimage"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="1dp">
+        
+        </ImageView>
+        --> 
+      
+        
+    
+        
+    <TextView
+        android:id="@+id/locationname"
+         
+        android:layout_width="match_parent"
+        android:textColor="@android:color/white"
+       android:gravity="left"
+       android:layout_gravity="center"
+        android:textSize="22sp"
+        android:layout_height="wrap_content">
+        
+    </TextView>
+    
+ <!--     <Button
+        android:id="@+id/findthisspot"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        
+        android:background="@drawable/button_find"
+        >
+     
+    </Button>
+    -->
+
+</LinearLayout>

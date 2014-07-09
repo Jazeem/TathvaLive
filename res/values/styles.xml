@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="MyTheme" parent="@android:style/Theme.Dialog">
+    <item name="android:background">#FFFFFF</item>
+    <item name="android:alertDialogStyle">@style/CustomAlertDialogStyle</item>
+    <item name="android:textColorPrimary">@android:color/white</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+   
+</style>
+
+   <style name="CustomAlertDialogStyle">
+    <item name="android:bottomBright">@android:color/white</item>
+    <item name="android:bottomDark">@android:color/white</item>
+    <item name="android:bottomMedium">@android:color/white</item>
+    
+    <item name="android:centerBright">@android:color/white</item>
+    <item name="android:centerDark">@android:color/white</item>
+    <item name="android:centerMedium">@android:color/white</item>
+    <item name="android:fullBright">@android:color/white</item>
+    <item name="android:fullDark">@android:color/white</item>
+    <item name="android:topBright">@android:color/white</item>
+    <item name="android:topDark">@android:color/white</item>
+</style>
+</resources> 

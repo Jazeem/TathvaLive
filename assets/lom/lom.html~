@@ -1,0 +1,147 @@
+<html>
+<h3><font color="blue">INTRODUCTION</font></h3>
+<center><img src="file:///android_asset/lom/lom(2)_resized(2)_resized.jpg" alt="lom(2)_resized(2).jpg"/>
+</center>
+<br>
+Robots have made their entry into every walk of life, how can sports be left out? As we know Soccer undeniably is the world’s favourite sport, this event is a platform to make innovative soccer robots. League of Machines was first staged in the 2006 edition of Tathva and is a highly popular and anticipated event for both the participants, roboteers and the techlovers. 
+
+<h3><font color="blue">SPECIFICATIONS</font></h3>
+<ul>
+<li>Maximum number of members per team is 3.</li>
+</ul>
+<ul>
+<li><b>Arena</b></li>
+</ul>
+The diagram below represents the actual arena.The arena shall be 260cm long and 180cm wide. The goal post shall be 60cm wide and 24cm in height from bottom. The penalty shot will be taken at a distance of 65cm from the opponent's goal post.
+
+<center>
+<img src="file:///android_asset/lom/lommmm_resized.png" alt="lommmm.png"/>
+</center>
+ 
+Let us address two imaginary teams playing a match as Team T1 and Team T2 respectively. T1 defends its goal on the left half and T2 defends the goal on the right. For a team, the remote controlled bot will act as the striker and the wire controlled bot, the defender. Let R1 be the remote controlled bot and W1 be the wire controlled bot in T1 and similarly R2 alongwith W2 be the bots in T2. As shown in the figure, the arena has been divided into four zones A, B, C and D. The zones accessible to each vehicle throughout the course of the match are given below: 
+<br/>
+1.	R1: In zones B, C or D.
+<br/>
+2.	R2: In A, B or C.
+<br/>
+3.	W1: In A or B.
+<br/>
+4.	W2: In C or D.
+<br/>
+A starting configuration is also presented below. Only R1 or R2 can start the match. The positions given below are valid when R2 starts the match, after which the above mentioned restrictions shall hold. 
+<br/>
+1.	R1: Anywhere in B but outside the centre circle.
+<br/>
+2.	R2: Within the centre circle (in any half B or C).
+<br/>
+3.	W1: A.
+<br/>
+4.	W2: D.
+At the start of the match each team will be assigned one of the two sides of the arena. All the controllers are allowed to move only along the side assigned to them.
+
+<ul>
+<li><b>Gameplay</b></li>
+</ul>
+<br/>
+1.	A standard golf ball will be used for the game. (with an approximate diameter of 45mm and weight 45gm).
+<br/>
+2.	Each league match shall be 10 minutes long with half time of 5 minutes.
+<br/>
+3.	Semi-final and final match durations shall be of 12 minutes with half time of 6 minutes each.
+<br/>
+4.	Only the remote controlled bot of a team can enter the opponents half during play, the other vehicle can only play within its own half. These robots cannot swap positions during the game.
+<br/>
+5.	All the four vehicles on the arena are allowed to hit goals.
+<br/>
+6.	The configurations that the vehicle must abide by during the match are described under arena specifications.
+<br/>
+7.	There should be no entanglement of wires during the match.
+<br/>
+8.	Intentional physical cornering and rough play may be declared as foul depending on the decision of the judges.
+<br/>
+9.	The referee shall take decisions regarding the fouls committed during the match.
+<br/>
+10.	Four fouls shall lead to a penalty shoot-out.
+<br/>
+11.	The penalties shall be taken from the centre of the penalty spot which is at a distance of 65cm from the goal post, on an open goal (None of the machines can guard their goal).
+<br/>
+12.	The restrictions on the accessible areas on the arena for each vehicle shall be strictly followed during the course of the match. A violation of this rule shall lead to a penalty shoot.
+<br/>
+13.	If a technical glitch occurs, the team shall be allowed to remove their vehicle from the arena for repair. If it cannot be resolved within 2 minutes of its occurrence, the team will have to play with only one vehicle which has the freedom to move anywhere on the arena.
+<br/>
+14.	If the ball leaves the arena, the game will be started from the center.
+<br/>
+15.	A Foul in the A or D-box (the area just before the goal post) leads to a penalty to the opposite team.
+<li><b>Machine</b></li>
+</ul>
+<br/>
+1.	Both the bots, at their maximum size (all retractable projections included) should fit into a box of dimensions 20cm x 15cm x 15cm. The measurements shall be done just before the start of the match, and the constraints shall apply throughout the course of the match.
+<br/>
+2.	Use of readymade parts like LEGO kits (except remote control kits) is strictly prohibited. If judges suspect that a team has put no effort into the construction of the vehicle and has purchased it readymade, they are liable for disqualification.
+<br/>
+3.	The vehicle can only drag the ball. Capturing the ball by any means (Example: by means of a slot running through the body, or a cup) may lead to disqualification.
+<br/>
+4.	The ball cannot roll under the vehicle. Guiding slots (projections/depressions on the surface of the vehicle) should not exceed the radius of the ball. The vehicles can employ a mechanism to strike the ball. The striking mechanism may exceed the dimensional constraints while making the shot.
+Gear boxes of toy cars may be used.
+
+o	<ul>
+<li><b>a. Wire-controlled machine:</b></li>
+</ul>
+?	The wire controlled bots can move only in the respective halves of the arena allotted to a team to defend the goal, as described under problem specifications.
+<br/>
+?	The participants must control their machines using hand held switches connected by means of wires.
+<br/>
+?	Only electrical powered actuators are allowed. The power supply may be on-board or external. A maximum voltage of 12V D.C. and a maximum current of 3 A can be used to power the vehicle.
+<br/>
+?	Participants should bring the required length of wire along with them. The wires should remain slack throughout the match.
+
+	<ul>
+<li><b>b. Radio-controlled machine:</b></li>
+</ul>
+?	The radio-controlled machine of a team can move in the zones of the arena as described above. For example, the machine of the team defending the left half of the arena can move in zones B, C and D. The machine has to be controlled by a wireless radio-controlled mechanism throughout the competition.
+<br/>
+?	In order to avoid frequency interference with the opponent team, the machine must have a dual frequency remote control circuit or two control circuits which may be interchanged before the start of the race.
+<br/>
+?	Remote control systems from toys could be used. Remote control systems available in the market may also be used. The machine must have an on-board power supply to provide power to any mechanism requiring electric power. The machine can use a maximum voltage of 12 V D.C and a maximum current of 3 A at any point of the game.
+
+<ul>
+<li><b>Abstract:</b></li>
+</ul>
+All teams are advised to submit an abstract in not more than 100 words to the event manager with subject: Abstract-LOM V2.0. Abstract should contain following details: 
+<br/>
+•	Registration Details- Tathva ID No., Event ID No., Name of Participants.
+<br/>
+•	General design of bots
+<br/>
+•	Motor specifications
+<br/>
+•	Frequencies used.
+<br/>
+•	All teams must submit abstracts in order to get accommodation facility within the NIT-C during the period of Tathva '11. The teams will be provided accommodation on first come first serve basis. Those who submit the abstracts would be given first priority.
+<br/>
+•	On-the-spot registration for the event will be allowed though not preferred. All on-the-spot teams are required to register with fully completed abstract at least 24 hours before the start of the event.
+
+<h3><font color="blue">PROBLEM STATEMENT</font></h3>
+Design and build two remote controlled robots, one wireless remote controlled and the other wired-remote controlled,or you can bring both wireless robots that can play a game of soccer against another team of two similar bots in an arena.There can't be two wired robots in a team.Instead, you can bring a single bot, either wired or wireless, wireless is preferred, but do keep in mind that your score under the coordination with the team-mate column will be left to the judges discretion. 
+
+<h3><font color="blue">JUDGING CRITERIA</font></h3>
+1.	The team with maximum goals at the completion of the match will emerge as the winner.
+<br/>
+2.	The competition comprises of league matches and knockout matches. In case there is a tie at the end of the match, extra time shall be given to resolve the tie.
+<br/>
+3.	Ready-made chassis are not allowed and would lead to the disqualification of the team.
+<br/>
+4.	Wireless bots are encouraged.
+
+
+<h3><font color="blue">Powered By</font></h3>
+<center><img src="file:///android_asset/lom/sp robotic works wos(1)_resized.png" alt="sp robotic works wos(1).png"/>
+
+<h3><font color="blue">Prizes</font></h3>
+First Prize : Rs.12000<br/>
+
+<h3><font color="blue">No of participants</font></h3>
+Min : 2 <br>
+Max : 3
+</html>
+
